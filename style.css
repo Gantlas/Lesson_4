@@ -152,7 +152,7 @@ main {
 }
 
 .price__card li {
-    margin-bottom: 1px;
+    margin-bottom: 2px;
 }
 
 .price__card > .card__header:nth-child(3) {
@@ -170,6 +170,7 @@ main {
     font-size: 20px;
     font-weight: bold;
     padding: 18px 2px;
+    margin-bottom: 1px;
 }
 
 .price__card .card__header:nth-child(2) {
@@ -179,6 +180,7 @@ main {
     font-weight: bold;
     line-height: 1;
     padding: 12px 0 1px;
+    margin-bottom: 1px;
 }
 
 .dollar {
